@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+<symbol id="hmp-icon-about_community_group" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#18B6C9"/>
+<circle cx="256" cy="206" r="46" fill="#FFFFFF"/>
+<circle cx="188" cy="232" r="34" fill="#FFFFFF"/>
+<circle cx="324" cy="232" r="34" fill="#FFFFFF"/>
+<path d="M176 330c8-44 40-74 80-74s72 30 80 74z" fill="#FFFFFF"/>
+<path d="M128 344c6-34 30-58 62-58 18 0 34 6 46 18-12 10-20 22-26 40z" fill="#FFFFFF"/>
+<path d="M384 344c-6-18-14-30-26-40 12-12 28-18 46-18 32 0 56 24 62 58z" fill="#FFFFFF"/>
+</symbol>
+<symbol id="hmp-icon-about_la_palm" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#18B6C9"/>
+<path d="M242 230c-30-34-72-38-108-14 42-2 66 14 82 40-38-18-70-8-92 20 40-12 68-4 92 20-32 0-54 18-66 50 26-18 50-22 74-14l-16 52h48l-10-94 18 94h48l-24-96c26-6 48 4 74 28-10-38-34-58-66-58 22-20 48-24 84-10-24-32-56-42-92-22 16-24 40-38 82-36-36-24-78-20-116 20z" fill="#FFFFFF"/>
+</symbol>
+<symbol id="hmp-icon-about_paintbrush" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#355CFF"/>
+<path d="M318 156l38 38-96 96-38-38z" fill="#FFFFFF"/>
+<path d="M356 194l24-24 28 28-24 24z" fill="#FFFFFF"/>
+<path d="M202 252l58 58-18 18c-22 22-60 18-88 36 18-28 14-66 36-88z" fill="#FFFFFF"/>
+</symbol>
+<symbol id="hmp-icon-about_person" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#A12767"/>
+<circle cx="256" cy="212" r="46" fill="#FFFFFF"/>
+<path d="M176 340c8-48 40-82 80-82s72 34 80 82z" fill="#FFFFFF"/>
+</symbol>
+<symbol id="hmp-icon-activate_underused_walls" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#F4B400"/>
+<rect x="160" y="144" width="192" height="224" rx="18" fill="#FFFFFF"/>
+<rect x="190" y="178" width="38" height="38" rx="6" fill="#F4B400"/>
+<rect x="238" y="178" width="38" height="38" rx="6" fill="#F4B400"/>
+<rect x="286" y="178" width="38" height="38" rx="6" fill="#F4B400"/>
+<rect x="190" y="230" width="38" height="38" rx="6" fill="#F4B400"/>
+<rect x="238" y="230" width="38" height="38" rx="6" fill="#F4B400"/>
+<rect x="286" y="230" width="38" height="38" rx="6" fill="#F4B400"/>
+<rect x="224" y="286" width="64" height="82" rx="8" fill="#F4B400"/>
+</symbol>
+<symbol id="hmp-icon-approval_clipboard" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="124" fill="none" stroke="#FF5B4A" stroke-width="22"/>
+<rect x="198" y="176" width="116" height="154" rx="12" fill="#FF5B4A"/>
+<rect x="224" y="154" width="64" height="28" rx="8" fill="#FF5B4A"/>
+<path d="M222 248l24 24 46-54" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</symbol>
+<symbol id="hmp-icon-audience_group" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#18B6C9"/>
+<circle cx="256" cy="206" r="46" fill="#FFFFFF"/>
+<circle cx="188" cy="232" r="34" fill="#FFFFFF"/>
+<circle cx="324" cy="232" r="34" fill="#FFFFFF"/>
+<path d="M176 330c8-44 40-74 80-74s72 30 80 74z" fill="#FFFFFF"/>
+<path d="M128 344c6-34 30-58 62-58 18 0 34 6 46 18-12 10-20 22-26 40z" fill="#FFFFFF"/>
+<path d="M384 344c-6-18-14-30-26-40 12-12 28-18 46-18 32 0 56 24 62 58z" fill="#FFFFFF"/>
+</symbol>
+<symbol id="hmp-icon-branded_environments_tag" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#FF5B4A"/>
+<path d="M154 170v100l106 106c14 14 36 14 50 0l70-70c14-14 14-36 0-50L274 150H174c-11 0-20 9-20 20z" fill="#FFFFFF"/>
+<circle cx="206" cy="202" r="18" fill="#FF5B4A"/>
+</symbol>
+<symbol id="hmp-icon-camera" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#18B6C9"/>
+<rect x="130" y="178" width="252" height="164" rx="24" fill="#FFFFFF"/>
+<path d="M188 178l24-40h88l24 40z" fill="#FFFFFF"/>
+<circle cx="256" cy="260" r="56" fill="#18B6C9"/>
+<circle cx="256" cy="260" r="30" fill="#FFFFFF"/>
+<circle cx="340" cy="210" r="12" fill="#18B6C9"/>
+</symbol>
+<symbol id="hmp-icon-concept_lightbulb" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="124" fill="none" stroke="#18B6C9" stroke-width="22"/>
+<path d="M256 176c-36 0-66 30-66 66 0 22 12 42 28 54 10 7 16 18 16 30h44c0-12 6-23 16-30 16-12 28-32 28-54 0-36-30-66-66-66z" fill="#18B6C9"/>
+<rect x="222" y="334" width="68" height="18" rx="8" fill="#18B6C9"/>
+<rect x="232" y="360" width="48" height="12" rx="6" fill="#18B6C9"/>
+</symbol>
+<symbol id="hmp-icon-cta_activate_people" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#F58A1F"/>
+<circle cx="256" cy="214" r="34" fill="#FFFFFF"/>
+<circle cx="204" cy="230" r="26" fill="#FFFFFF"/>
+<circle cx="308" cy="230" r="26" fill="#FFFFFF"/>
+<path d="M192 318c8-30 30-48 64-48s56 18 64 48z" fill="#FFFFFF"/>
+<path d="M146 330c6-22 22-36 44-36 13 0 24 4 33 12-8 6-13 14-17 24z" fill="#FFFFFF"/>
+<path d="M366 330c-4-10-9-18-17-24 9-8 20-12 33-12 22 0 38 14 44 36z" fill="#FFFFFF"/>
+</symbol>
+<symbol id="hmp-icon-cta_document_estimate" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#18B6C9"/>
+<path d="M184 156h112l48 48v152H184z" fill="#FFFFFF"/>
+<path d="M296 156v48h48" fill="#18B6C9"/>
+<rect x="212" y="228" width="92" height="12" rx="6" fill="#18B6C9"/>
+<rect x="212" y="254" width="92" height="12" rx="6" fill="#18B6C9"/>
+<path d="M256 288v48" stroke="#18B6C9" stroke-width="10" stroke-linecap="round"/>
+<path d="M276 300c-5-4-11-6-18-6-10 1-16 6-16 14 0 8 8 12 18 14 12 3 20 7 20 16 0 9-8 15-20 15-8 0-15-2-22-8" fill="none" stroke="#18B6C9" stroke-width="8" stroke-linecap="round"/>
+</symbol>
+<symbol id="hmp-icon-cta_handshake" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#A12767"/>
+<path d="M166 246l44-44 50 50-44 44z" fill="#FFFFFF"/>
+<path d="M302 202l44 44-50 50-44-44z" fill="#FFFFFF"/>
+<path d="M208 240l28-28c14-14 36-14 50 0l52 52-62 62c-10 10-26 10-36 0l-66-66z" fill="#FFFFFF"/>
+</symbol>
+<symbol id="hmp-icon-cta_image" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#A12767"/>
+<rect x="168" y="176" width="176" height="128" rx="14" fill="#FFFFFF"/>
+<circle cx="220" cy="220" r="18" fill="#A12767"/>
+<path d="M188 284l42-44 34 34 22-22 38 32z" fill="#A12767"/>
+</symbol>
+<symbol id="hmp-icon-cta_pin" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#A12767"/>
+<path d="M256 102c-63 0-114 51-114 114 0 89 114 196 114 196s114-107 114-196c0-63-51-114-114-114z" fill="#FFFFFF"/>
+<circle cx="256" cy="216" r="42" fill="#A12767"/>
+</symbol>
+<symbol id="hmp-icon-cta_star" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#355CFF"/>
+<path d="M256 140l30 60 66 10-48 46 12 66-60-32-60 32 12-66-48-46 66-10z" fill="#FFFFFF"/>
+</symbol>
+<symbol id="hmp-icon-destination_pin" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#A12767"/>
+<path d="M256 102c-63 0-114 51-114 114 0 89 114 196 114 196s114-107 114-196c0-63-51-114-114-114z" fill="#FFFFFF"/>
+<circle cx="256" cy="216" r="42" fill="#A12767"/>
+</symbol>
+<symbol id="hmp-icon-discovery_magnify" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="124" fill="none" stroke="#A12767" stroke-width="22"/>
+<circle cx="236" cy="236" r="52" fill="none" stroke="#A12767" stroke-width="20"/>
+<line x1="272" y1="272" x2="334" y2="334" stroke="#A12767" stroke-width="22" stroke-linecap="round"/>
+</symbol>
+<symbol id="hmp-icon-documentation_camera" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="124" fill="none" stroke="#355CFF" stroke-width="22"/>
+<rect x="178" y="214" width="156" height="92" rx="14" fill="#355CFF"/>
+<path d="M214 214l16-24h52l16 24z" fill="#355CFF"/>
+<circle cx="256" cy="260" r="28" fill="#FFFFFF"/>
+<circle cx="256" cy="260" r="14" fill="#355CFF"/>
+<circle cx="310" cy="232" r="6" fill="#FFFFFF"/>
+</symbol>
+<symbol id="hmp-icon-fiscal_heart" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#A12767"/>
+<path d="M256 348s-82-48-82-114c0-28 22-50 50-50 18 0 34 10 42 24 8-14 24-24 42-24 28 0 50 22 50 50 0 66-82 114-82 114z" fill="#FFFFFF"/>
+</symbol>
+<symbol id="hmp-icon-globe" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#355CFF"/>
+<circle cx="256" cy="256" r="74" fill="none" stroke="#FFFFFF" stroke-width="14"/>
+<ellipse cx="256" cy="256" rx="34" ry="74" fill="none" stroke="#FFFFFF" stroke-width="12"/>
+<line x1="182" y1="256" x2="330" y2="256" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+<line x1="196" y1="220" x2="316" y2="220" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+<line x1="196" y1="292" x2="316" y2="292" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+</symbol>
+<symbol id="hmp-icon-goals_target" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#F4B400"/>
+<circle cx="256" cy="256" r="94" fill="none" stroke="#FFFFFF" stroke-width="24"/>
+<circle cx="256" cy="256" r="48" fill="none" stroke="#FFFFFF" stroke-width="24"/>
+<circle cx="256" cy="256" r="12" fill="#FFFFFF"/>
+<path d="M310 202l78-78" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+<path d="M360 124h40v40" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</symbol>
+<symbol id="hmp-icon-hashtag" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#F4B400"/>
+<g stroke="#FFFFFF" stroke-width="26" stroke-linecap="round"><line x1="206" y1="126" x2="176" y2="386"/><line x1="330" y1="126" x2="300" y2="386"/><line x1="142" y1="204" x2="372" y2="204"/><line x1="130" y1="308" x2="360" y2="308"/></g>
+</symbol>
+<symbol id="hmp-icon-increase_visibility" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="192" fill="#A12767"/>
+<rect x="154" y="272" width="38" height="80" rx="8" fill="#FFFFFF"/><rect x="220" y="226" width="38" height="126" rx="8" fill="#FFFFFF"/><rect x="286" y="174" width="38" height="178" rx="8" fill="#FFFFFF"/>
+<path d="M152 210l58 20 54-54 48 18" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/><path d="M288 162h40v40" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</symbol>
+<symbol id="hmp-icon-installation_roller" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="124" fill="none" stroke="#F4B400" stroke-width="22"/><rect x="182" y="192" width="116" height="42" rx="10" fill="#F4B400"/><path d="M298 213h22c18 0 32 14 32 32v14c0 18-14 32-32 32h-44c-18 0-32 14-32 32v24" fill="none" stroke="#F4B400" stroke-width="18" stroke-linecap="round"/><rect x="224" y="350" width="28" height="46" rx="6" fill="#F4B400"/>
+</symbol>
+<symbol id="hmp-icon-interactive_pointer" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#355CFF"/><path d="M238 124c18 0 32 14 32 32v106l18-12c18-12 42 1 42 23v20l20-10c18-9 38 4 38 24v18l16-8c18-9 38 4 38 24v38c0 57-47 104-104 104h-64c-43 0-83-23-104-60L140 276c-10-17-4-39 13-49 17-10 39-4 49 13l4 7V156c0-18 14-32 32-32z" fill="#FFFFFF"/><rect x="226" y="156" width="24" height="112" rx="12" fill="#355CFF"/></symbol>
+<symbol id="hmp-icon-memorable_visuals_eye" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#355CFF"/><path d="M116 256s54-88 140-88 140 88 140 88-54 88-140 88-140-88-140-88z" fill="#FFFFFF"/><circle cx="256" cy="256" r="38" fill="#355CFF"/><circle cx="256" cy="256" r="16" fill="#FFFFFF"/></symbol>
+<symbol id="hmp-icon-note_star" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#355CFF"/><path d="M256 140l30 60 66 10-48 46 12 66-60-32-60 32 12-66-48-46 66-10z" fill="#FFFFFF"/></symbol>
+<symbol id="hmp-icon-package_camera" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#18B6C9"/><rect x="130" y="178" width="252" height="164" rx="24" fill="#FFFFFF"/><path d="M188 178l24-40h88l24 40z" fill="#FFFFFF"/><circle cx="256" cy="260" r="56" fill="#18B6C9"/><circle cx="256" cy="260" r="30" fill="#FFFFFF"/><circle cx="340" cy="210" r="12" fill="#18B6C9"/></symbol>
+<symbol id="hmp-icon-package_star" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#355CFF"/><path d="M256 140l30 60 66 10-48 46 12 66-60-32-60 32 12-66-48-46 66-10z" fill="#FFFFFF"/></symbol>
+<symbol id="hmp-icon-package_storefront" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#A12767"/><rect x="154" y="204" width="204" height="130" rx="12" fill="#FFFFFF"/><rect x="142" y="178" width="228" height="38" rx="8" fill="#FFFFFF"/><g fill="#A12767"><rect x="160" y="180" width="20" height="34"/><rect x="194" y="180" width="20" height="34"/><rect x="228" y="180" width="20" height="34"/><rect x="262" y="180" width="20" height="34"/><rect x="296" y="180" width="20" height="34"/><rect x="330" y="180" width="20" height="34"/></g><rect x="230" y="242" width="52" height="92" fill="#A12767"/><rect x="178" y="238" width="34" height="34" fill="#A12767"/><rect x="300" y="238" width="34" height="34" fill="#A12767"/></symbol>
+<symbol id="hmp-icon-placemaking_pin" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#A12767"/><path d="M256 102c-63 0-114 51-114 114 0 89 114 196 114 196s114-107 114-196c0-63-51-114-114-114z" fill="#FFFFFF"/><circle cx="256" cy="216" r="42" fill="#A12767"/></symbol>
+<symbol id="hmp-icon-pricing_dollar" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#A12767"/><circle cx="256" cy="256" r="82" fill="#FFFFFF"/><path d="M256 206v100" stroke="#A12767" stroke-width="14" stroke-linecap="round"/><path d="M290 224c-8-8-20-12-34-11-18 1-30 11-30 24 0 16 14 22 34 26 24 5 38 14 38 32 0 17-16 29-39 29-16 0-30-5-42-15" fill="none" stroke="#A12767" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+<symbol id="hmp-icon-public_facing_impact_group" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#18B6C9"/><circle cx="256" cy="206" r="46" fill="#FFFFFF"/><circle cx="188" cy="232" r="34" fill="#FFFFFF"/><circle cx="324" cy="232" r="34" fill="#FFFFFF"/><path d="M176 330c8-44 40-74 80-74s72 30 80 74z" fill="#FFFFFF"/><path d="M128 344c6-34 30-58 62-58 18 0 34 6 46 18-12 10-20 22-26 40z" fill="#FFFFFF"/><path d="M384 344c-6-18-14-30-26-40 12-12 28-18 46-18 32 0 56 24 62 58z" fill="#FFFFFF"/></symbol>
+<symbol id="hmp-icon-shareable_backdrop_camera" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#18B6C9"/><rect x="130" y="178" width="252" height="164" rx="24" fill="#FFFFFF"/><path d="M188 178l24-40h88l24 40z" fill="#FFFFFF"/><circle cx="256" cy="260" r="56" fill="#18B6C9"/><circle cx="256" cy="260" r="30" fill="#FFFFFF"/><circle cx="340" cy="210" r="12" fill="#18B6C9"/></symbol>
+<symbol id="hmp-icon-site_pin" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#A12767"/><path d="M256 102c-63 0-114 51-114 114 0 89 114 196 114 196s114-107 114-196c0-63-51-114-114-114z" fill="#FFFFFF"/><circle cx="256" cy="216" r="42" fill="#A12767"/></symbol>
+<symbol id="hmp-icon-strengthen_identity_star" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#355CFF"/><path d="M256 140l30 60 66 10-48 46 12 66-60-32-60 32 12-66-48-46 66-10z" fill="#FFFFFF"/></symbol>
+<symbol id="hmp-icon-timeline_calendar" viewBox="0 0 512 512"><circle cx="256" cy="256" r="192" fill="#18B6C9"/><rect x="172" y="174" width="168" height="146" rx="16" fill="#FFFFFF"/><rect x="172" y="198" width="168" height="28" fill="#18B6C9"/><rect x="196" y="148" width="16" height="40" rx="6" fill="#FFFFFF"/><rect x="300" y="148" width="16" height="40" rx="6" fill="#FFFFFF"/><circle cx="214" cy="256" r="10" fill="#18B6C9"/><circle cx="256" cy="256" r="10" fill="#18B6C9"/><circle cx="298" cy="256" r="10" fill="#18B6C9"/><circle cx="214" cy="292" r="10" fill="#18B6C9"/><circle cx="256" cy="292" r="10" fill="#18B6C9"/></symbol>
+</svg>
